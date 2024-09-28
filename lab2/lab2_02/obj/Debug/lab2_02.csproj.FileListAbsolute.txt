@@ -1,0 +1,10 @@
+C:\Users\trant\source\repos\lab2\lab2_02\bin\Debug\lab2_02.exe.config
+C:\Users\trant\source\repos\lab2\lab2_02\bin\Debug\lab2_02.exe
+C:\Users\trant\source\repos\lab2\lab2_02\bin\Debug\lab2_02.pdb
+C:\Users\trant\source\repos\lab2\lab2_02\obj\Debug\lab2_02.csproj.AssemblyReference.cache
+C:\Users\trant\source\repos\lab2\lab2_02\obj\Debug\lab2_02.Properties.Resources.resources
+C:\Users\trant\source\repos\lab2\lab2_02\obj\Debug\lab2_02.csproj.GenerateResource.cache
+C:\Users\trant\source\repos\lab2\lab2_02\obj\Debug\lab2_02.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\lab2\lab2_02\obj\Debug\lab2_02.exe
+C:\Users\trant\source\repos\lab2\lab2_02\obj\Debug\lab2_02.pdb
+C:\Users\trant\source\repos\lab2\lab2_02\obj\Debug\lab2_02.FrmQLSV.resources
